@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<emps>
+    <emp>
+        <image>bigbear.png</image>
+        <name>will</name>
+        <age>17</age>
+		<email>will@qq.com</email>
+        <admin>1</admin>
+    </emp>
+
+    <emp>
+        <image>dafei.png</image>
+        <name>will</name>
+        <age>17</age>
+		<email>will@qq.com</email>
+        <admin>1</admin>
+    </emp>
+
+    <emp>
+        <image>lan.png</image>
+        <name>will</name>
+        <age>17</age>
+		<email>will@qq.com</email>
+        <admin>1</admin>
+    </emp>
+
+    <emp>
+        <image>will.png</image>
+        <name>will</name>
+        <age>17</age>
+		<email>will@qq.com</email>
+        <admin>1</admin>
+    </emp>
+</emps>
